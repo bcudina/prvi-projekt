@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+  background-color: #92a8d3;
+}
+
+.pod {
+  color: red;
+  background-color: yellow;
+  height: 200px;
+  width: 100px;
+}

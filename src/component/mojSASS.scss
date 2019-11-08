@@ -1,0 +1,19 @@
+$pozadina: yellow;
+$bojaTexta: red;
+
+@mixin podnaslov {
+  background-color: $pozadina;
+  color: $bojaTexta;
+  width: 200px;
+  height: 100px;
+}
+
+.novo {
+  @include podnaslov;
+}
+
+/*
+p {
+  color: $bojaTexta;
+}
+*/
