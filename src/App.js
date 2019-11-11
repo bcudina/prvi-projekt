@@ -2,7 +2,7 @@ import React from "react";
 import "./App.css";
 import "./component/myScss.scss";
 
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import Druga from "./component/druga";
 import Treca from "./component/treca";
